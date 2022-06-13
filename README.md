@@ -3,7 +3,7 @@ Research on text summarization with multiple extract and abstract models
 ## In the direction of Extraction , we use clustering machine learning model like KMean, Hierarchical , TextRank
 Result: 
 | Model  | Rouge 1 | Rouge 2 | Rouge L|
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | KMean  | 0.51  | 0.20 | 0.3 |
 | Hierarchical  | 0.51 | 0.19 | 0.3 |
 | Text Rank | 0.45 | 0.44 | 0.37 |
